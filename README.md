@@ -1,6 +1,10 @@
 # Enhance Jam - 2024
 ### What is it?
-DAKOOOOOOOTAAAAAAAAAAAAAAAAA can write an explanation here.
+The Enhance Jam is a reoccurring game jam hosted by The IGDA student chapter of the University of Advancing Technology.
+Generally, participants break up into teams and create a single (hopefully) self-contained feature for the game in 48 hours.
+Afterwards judges and participants vote on which submissions will be merged into the main branch.
+The features become merged and the result will become the base project for the next Enhance Jam.
+
 ### Theme
 ## General Guidelines
 - Adhere to the [UAT Code of Conduct](https://www.uat.edu/uat-policies)
