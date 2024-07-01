@@ -7,18 +7,16 @@ DAKOOOOOOOTAAAAAAAAAAAAAAAAA can write an explanation here.
 - Be respectful of your fellow jammers
   
 ### Version Control
-#### Branching - 
-All newly created branches should be branched off of `develop`.
-
-Branch names for features should be formatted as `feature/<feature-name>`.
-
-Branch names for art assets should be formatted as `art/asset-collection-name`.
+**Branching** - 
+- All newly created branches should be branched off of `develop`.
+- Branch names for features should be formatted as `feature/<feature-name>`.
+- Branch names for art assets should be formatted as `art/asset-collection-name`.
 
 ### Programming Style Guide
-If using **GDScript**, 
+If using **GDScript** -
 - Simply follow the official [GDScript style guide](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html).
 
-If using **C#**,
+If using **C#** -
 - Follow the official [Godot C# style guide](https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_style_guide.html).
 - Use '_' to prefix pascalCased private variables.
 
