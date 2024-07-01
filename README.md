@@ -1,6 +1,7 @@
 # Enhance Jam - 2024
 ### What is it?
 DAKOOOOOOOTAAAAAAAAAAAAAAAAA can write an explanation here.
+### Theme
 ## General Guidelines
 - Adhere to the [UAT Code of Conduct](https://www.uat.edu/uat-policies)
 - Be respectful of your fellow jammers
