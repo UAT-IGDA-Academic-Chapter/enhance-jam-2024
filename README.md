@@ -7,7 +7,7 @@ DAKOOOOOOOTAAAAAAAAAAAAAAAAA can write an explanation here.
 - Be respectful of your fellow jammers
   
 ### Version Control
-#### - Branching
+#### Branching - 
 All newly created branches should be branched off of `develop`.
 
 Branch names for features should be formatted as `feature/<feature-name>`.
