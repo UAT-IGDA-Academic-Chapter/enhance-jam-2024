@@ -1,6 +1,6 @@
 # Enhance Jam - 2024
 ### What is it?
-The Enhance Jam is a reoccurring game jam hosted by The IGDA student chapter of the University of Advancing Technology.
+The Enhance Jam is a reoccurring game jam hosted by The University of Advancing Technology's IGDA Academic Chapter.
 Generally, participants break up into teams and create a single (hopefully) self-contained feature for the game in 48 hours.
 Afterwards judges and participants vote on which submissions will be merged into the main branch.
 The features become merged and the result will become the base project for the next Enhance Jam.
