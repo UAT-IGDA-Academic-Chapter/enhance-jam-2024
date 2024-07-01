@@ -7,7 +7,7 @@ DAKOOOOOOOTAAAAAAAAAAAAAAAAA can write an explanation here.
 - Be respectful of your fellow jammers
   
 ### Version Control
-Artists are expected to use Git to upload assets into the project themselves.  If anyone does not understand how to use Git, ask around in the Discord.  [Fork](https://git-fork.com/) is a great GUI Git Client that also shows merge differences between 2D art files visually, and generally has a very user-friendly UI for anyone.
+Programmers, artists, etc. are expected to use Git to upload assets into the project themselves.  If anyone does not understand how to use Git, ask around in the Discord.  [Fork](https://git-fork.com/) is a great GUI Git Client that also shows merge differences between 2D art files visually, and generally has a very user-friendly UI for anyone.
 
 **Branching** - 
 - All newly created branches should be branched off of `develop`.
