@@ -12,7 +12,7 @@ Programmers, artists, etc. are expected to use Git to upload assets into the pro
 **Branching** - 
 - All newly created branches should be branched off of `develop`.
 - Branch names for features should be formatted as `feature/<feature-name>`.
-- Branch names for art assets should be formatted as `art/asset-collection-name`.
+- Branch names for art assets should be formatted as `art/<asset-collection-name>`.
 
 ### Programming Style Guide
 If using **GDScript** -
