@@ -24,6 +24,6 @@ If using **C#** -
 
 Please do not add any dependencies that cannot be included in the version control.
 
-_**Remember**_ - the board will be conducting a code review process.  Pull requests may be REJECTED, ACCEPTED, or ACCEPTED WITH CHANGES.  If ACCEPTED WITH CHANGES, a PR may be rewritten to adhere to the requests in the review and be merged.  Any changes asked for will be the board's best understanding of public opinion based on voting discussions, as well as adherence to the style guides laid out here.
+_**Remember**_ - The board will be conducting a code review process.  Pull requests may be REJECTED, ACCEPTED, or ACCEPTED WITH CHANGES.  If ACCEPTED WITH CHANGES, a PR may be rewritten to adhere to the requests in the review and be merged.  Any changes asked for will be the board's best understanding of public opinion based on voting discussions, as well as adherence to the style guides laid out here.
 
 ### Art Bible
