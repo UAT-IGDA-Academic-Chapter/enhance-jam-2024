@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="EnhanceJam2024"
-config/features=PackedStringArray("4.2", "Forward Plus")
+run/main_scene="res://scenes/main_scene.tscn"
+config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
+
+[autoload]
+
+GameManager="*res://game_manager.gd"
 
 [dotnet]
 
