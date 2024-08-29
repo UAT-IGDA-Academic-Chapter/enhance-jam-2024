@@ -12,7 +12,7 @@ config_version=5
 
 config/name="EnhanceJam2024"
 run/main_scene="res://scenes/main_scene.tscn"
-config/features=PackedStringArray("4.2", "C#", "Forward Plus")
+config/features=PackedStringArray("4.3", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
